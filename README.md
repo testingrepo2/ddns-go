@@ -244,7 +244,7 @@
 - 如 RequestBody 为空则为 GET 请求，否则为 POST 请求
 - [Callback配置参考](https://github.com/jeessy2/ddns-go/wiki/Callback配置参考)
 
-## 界面
+## 界面 
 
 ![screenshots](https://raw.githubusercontent.com/jeessy2/ddns-go/master/ddns-web.png)
 
